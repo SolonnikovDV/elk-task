@@ -16,4 +16,4 @@
 - Пример конфигурации можно подсмотреть здесь - https://dzone.com/articles/logstash-elasticsearch-and
 - Для добавления данных в Kibana нужно сначала создать Index Pattern, по которому будут подгружаться индексы из ES
 
-> Упражнение разработано в рамках курса [OTUS / Data Engineer](https://otus.ru/lessons/data-engineer/)
+> Упражнение разработано в рамках курса [OTUS / Data Engineer](https://otus.ru/lessons/data-engineer/)# elk-task
